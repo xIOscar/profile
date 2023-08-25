@@ -10,3 +10,8 @@
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb&theme=light)](https://skillicons.dev)
 ### Others
 [![My Skills](https://skillicons.dev/icons?i=cpp,java,php,arduino,figma&theme=light)](https://skillicons.dev)
+
+|         My skills           |
+|--------------|--------------|
+| Celda 1-1    | Celda 1-2    |
+| Celda 2-1    | Celda 2-2    |
