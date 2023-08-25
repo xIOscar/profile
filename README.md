@@ -11,7 +11,7 @@
 ### Others
 [![My Skills](https://skillicons.dev/icons?i=cpp,java,php,arduino,figma&theme=light)](https://skillicons.dev)
 
-| My Skills | |
-| --- |
+| My Skills |
+| --- | --- |
 | Web developing | [![My Skills](https://skillicons.dev/icons?i=react&theme=light)](https://skillicons.dev) |
 | Frameworks | [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js&theme=light)](https://skillicons.dev) |
